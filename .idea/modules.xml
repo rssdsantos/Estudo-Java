@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/ExercíciosJava/Alura/Alura.iml" filepath="$PROJECT_DIR$/ExercíciosJava/Alura/Alura.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ExercíciosJava/Apiteste/Apiteste.iml" filepath="$PROJECT_DIR$/ExercíciosJava/Apiteste/Apiteste.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ExercíciosJava/BuscadordeEndereco/BuscadordeEndereco.iml" filepath="$PROJECT_DIR$/ExercíciosJava/BuscadordeEndereco/BuscadordeEndereco.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ExercíciosJava/CaixaEletronico/CaixaEletronico.iml" filepath="$PROJECT_DIR$/ExercíciosJava/CaixaEletronico/CaixaEletronico.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ExercíciosJava/Colegio/Colegio.iml" filepath="$PROJECT_DIR$/ExercíciosJava/Colegio/Colegio.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ExercíciosJava/Escola/Escola.iml" filepath="$PROJECT_DIR$/ExercíciosJava/Escola/Escola.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ExercíciosJava/ExercicioMetodoJava/ExercicioMetodoJava.iml" filepath="$PROJECT_DIR$/ExercíciosJava/ExercicioMetodoJava/ExercicioMetodoJava.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/Exercicios-Java.iml" filepath="$PROJECT_DIR$/.idea/Exercicios-Java.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ExercíciosJava/ExercíciosJava.iml" filepath="$PROJECT_DIR$/ExercíciosJava/ExercíciosJava.iml" />
+      <module fileurl="file://$PROJECT_DIR$/OrientacaoObjetos/OrientacaoObjetos.iml" filepath="$PROJECT_DIR$/OrientacaoObjetos/OrientacaoObjetos.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ExercíciosJava/PROVA/PROVA.iml" filepath="$PROJECT_DIR$/ExercíciosJava/PROVA/PROVA.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ExercíciosJava/Paciente/Paciente.iml" filepath="$PROJECT_DIR$/ExercíciosJava/Paciente/Paciente.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ExercíciosJava/ProjetoFinal/ProjetoFinal.iml" filepath="$PROJECT_DIR$/ExercíciosJava/ProjetoFinal/ProjetoFinal.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ExercíciosJava/Spotify/Spotify.iml" filepath="$PROJECT_DIR$/ExercíciosJava/Spotify/Spotify.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ExercíciosJava/Teams/Teams.iml" filepath="$PROJECT_DIR$/ExercíciosJava/Teams/Teams.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ExercíciosJava/Tempo/Tempo.iml" filepath="$PROJECT_DIR$/ExercíciosJava/Tempo/Tempo.iml" />
+    </modules>
+  </component>
+</project>
